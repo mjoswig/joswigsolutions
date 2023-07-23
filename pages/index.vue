@@ -22,7 +22,7 @@
         />
         <Card
           title="Handelszeiten.com"
-          description="A German website that lists the trading hours of stock exchanges worldwide."
+          description="A German website that lists the trading hours and market holidays of stock exchanges worldwide."
           icon="solutions/handelszeiten.png"
           url="https://handelszeiten.com/"
         />
