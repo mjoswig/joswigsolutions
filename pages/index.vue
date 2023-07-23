@@ -1,10 +1,10 @@
 <template>
   <div class="flex flex-col">
-    <div class="md:text-center mb-6 xl:mb-8">
+    <div class="md:text-center mb-6 md:mb-10">
       <h1 class="text-2xl xl:text-3xl mb-2">About Joswig Solutions</h1>
       <p class="text-lg xl:text-xl">We are a web development company with a focus on web solutions and client services.</p>
     </div>
-    <div class="mb-8 xl:mb-10">
+    <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
       <p class="text-base xl:text-lg mb-4">We operate a portfolio of indie projects and micro-startups.</p>
       <div class="grid grid-cols gap-4">
@@ -28,7 +28,7 @@
         />
       </div>
     </div>
-    <div class="mb-8 xl:mb-10">
+    <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Services</h2>
       <p class="text-base xl:text-lg mb-4">Would you like to hire us for a web project? Here is what we can do for you:</p>
       <div class="grid grid-cols gap-4">
@@ -84,7 +84,7 @@
         </div>
       </div>
     </div>
-    <div class="md:mb-4">
+    <div class="md:mb-8 xl:mb-4">
       <h1 class="text-xl xl:text-2xl md:text-center mb-4">Let's build great projects together</h1>
       <div class="flex flex-col space-y-4 sm:flex-row sm:items-center md:justify-center sm:space-x-6 sm:space-y-0">
         <div>
