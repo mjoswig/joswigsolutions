@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="text-2xl xl:text-3xl mb-6">Legal</h1>
-    <div class="grid md:grid-cols-2 gap-4 mb-6">
+    <div class="grid md:grid-cols-2 gap-6 mb-6">
       <div>
         <h2 class="text-xl xl:text-2xl mb-2">Joswig Solutions UG</h2>
         <p class="mb-1">Schaperstraße 14</p>
