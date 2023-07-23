@@ -85,7 +85,7 @@
       </div>
     </div>
     <div>
-      <h1 class="text-xl xl:text-2xl md:text-center mb-4">Let's build great projects together 🚀</h1>
+      <h1 class="text-xl xl:text-2xl md:text-center mb-4">Let's build great projects together</h1>
       <div class="flex flex-col space-y-4 sm:flex-row sm:items-center md:justify-center sm:space-x-6 sm:space-y-0">
         <div>
           <div class="h-24 w-24 bg-cover rounded-full" :style="`background-image: url(${require('@/assets/images/manuel-joswig.jpeg')}); background-position: center 20%;`"></div>
