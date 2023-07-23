@@ -97,12 +97,6 @@ mark {
   color: inherit;
 }
 
-.text-gold {
-  background: #d39a11 linear-gradient(135deg,#d39a11,#f6d308 50%,#d39a11);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 @media (max-width: 1280px) {
   h1 {
     @apply text-2xl;
