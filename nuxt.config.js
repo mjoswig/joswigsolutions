@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Joswig Solutions',
+    title: 'Joswig Solutions - Web Development Company',
     htmlAttrs: {
       lang: 'en'
     },
