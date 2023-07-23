@@ -47,7 +47,7 @@ export default {
   },
 
   'google-gtag': {
-    id: ''
+    id: 'G-N0M3E3L67D'
   },
 
   sitemap: {

@@ -56,7 +56,7 @@
     </div>
     <div class="mb-8 xl:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Technologies</h2>
-      <p class="text-base xl:text-lg mb-6">Here are the technologies that we prefer working with when building new projects from scratch.</p>
+      <p class="text-base xl:text-lg mb-6">These are the technologies that we prefer working with when building new projects from scratch:</p>
       <div class="text-gray-500 font-bold grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8">
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/vuejs.svg" />
@@ -85,7 +85,7 @@
       </div>
     </div>
     <div>
-      <h1 class="text-xl xl:text-2xl md:text-center mb-4">Let's build great projects together</h1>
+      <h1 class="text-xl xl:text-2xl md:text-center mb-4">Let's build great projects together 🚀</h1>
       <div class="flex flex-col space-y-4 sm:flex-row sm:items-center md:justify-center sm:space-x-6 sm:space-y-0">
         <div>
           <div class="h-24 w-24 bg-cover rounded-full" :style="`background-image: url(${require('@/assets/images/manuel-joswig.jpeg')}); background-position: center 20%;`"></div>
