@@ -6,7 +6,7 @@
           <img class="h-24 w-auto" src="@/assets/images/joswigsolutions-logo.png" />
         </nuxt-link>
       </header>
-      <main class="mb-10 xl:mb-12">
+      <main class="mb-8 xl:mb-12">
         <Nuxt />
       </main>
       <footer class="flex flex-col justify-center space-y-2 md:text-center text-xs md:text-sm">
