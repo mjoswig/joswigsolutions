@@ -15,12 +15,6 @@
           url="https://wishlistpage.com/"
         />
         <Card
-          title="smsbrew"
-          description="A simple text messaging software for businesses to send notifications, alerts, reminders, and confirmations via SMS."
-          icon="solutions/smsbrew.png"
-          url="https://smsbrew.com/"
-        />
-        <Card
           title="Handelszeiten.com"
           description="A German website that lists the trading hours and market holidays of stock exchanges worldwide."
           icon="solutions/handelszeiten.png"
