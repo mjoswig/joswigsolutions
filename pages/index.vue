@@ -48,7 +48,7 @@
         />
         <Card
           title="Developer Recruitment"
-          description="Are you looking for a talented frontend or backend developer? We connect you to trusted people from our network."
+          description="Are you looking for a talented software developer? We connect you to trusted people from our network."
           icon="services/developer-recruitment.png"
         />
       </div>
