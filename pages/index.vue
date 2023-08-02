@@ -46,11 +46,6 @@
           description="We take care of your project and guarantee a high level of availability, performance, flexibility, and scalability."
           icon="services/hosting-maintenance.svg"
         />
-        <Card
-          title="Developer Recruitment"
-          description="Are you looking for a talented software developer? We connect you to trusted people from our network."
-          icon="services/developer-recruitment.png"
-        />
       </div>
     </div>
     <div class="mb-8 md:mb-16">
