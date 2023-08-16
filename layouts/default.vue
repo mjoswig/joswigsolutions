@@ -79,13 +79,13 @@ h4 {
 }
 
 a {
-  @apply font-bold;
-  color: #daba6b;
+  @apply font-bold text-gray-500;
+  /*color: #daba6b;*/
 }
 
 a:hover {
-  @apply underline;
-  color: #cfa53b;
+  @apply underline text-gray-600;
+  /*color: #cfa53b;*/
 }
 
 mark {

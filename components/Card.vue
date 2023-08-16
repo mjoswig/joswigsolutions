@@ -6,7 +6,7 @@
     <div class="w-full">
       <h3 class="text-base mb-1">{{ title }}</h3>
       <p class="text-sm">{{ description }}</p>
-      <a v-if="url" class="block mt-1 text-sm" :href="url" target="_blank">{{ url.replace('https://', '').replace('/', '') }}</a>
+      <a v-if="url" class="inline-block mt-1 text-sm" :href="url" target="_blank">{{ url.replace('https://', '').replace('/', '') }}</a>
     </div>
   </div>
 </template>
