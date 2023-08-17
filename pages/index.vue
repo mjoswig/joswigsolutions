@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col">
-    <div class="md:text-center mb-6 md:mb-10">
+    <div class="text-center mb-6 md:mb-10">
       <h1 class="text-2xl xl:text-3xl mb-2">About Joswig Solutions</h1>
       <p class="text-lg xl:text-xl">We are a web development company with a focus on web solutions and client services.</p>
     </div>
