@@ -22,7 +22,7 @@
         />
         <Card
           title="cvwizard"
-          description="A free CV builder that offers a quick and easy way to create your CV online."
+          description="A free CV builder that offers a quick and easy way to create your CV online and download it as PDF file."
           icon="solutions/cvwizard.png"
           url="https://cvwizard.online/"
         />
