@@ -52,6 +52,11 @@
           description="We take care of your project and guarantee a high level of availability, performance, flexibility, and scalability."
           icon="services/hosting-maintenance.svg"
         />
+        <Card
+          title="Development Team as a Service"
+          description="We source dedicated full-time developers for your project and operate as an extension of your in-house team."
+          icon="services/development-team-as-a-service.png"
+        />
       </div>
     </div>
     <div class="mb-8 md:mb-16">
