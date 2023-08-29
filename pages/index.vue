@@ -14,6 +14,12 @@
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
+        <Card
+          title="Handelszeiten.com"
+          description="A German website that lists the trading hours and market holidays of stock exchanges worldwide."
+          icon="solutions/handelszeiten.png"
+          url="https://handelszeiten.com/"
+        />
       </div>
     </div>
     <div class="mb-8 md:mb-12">
