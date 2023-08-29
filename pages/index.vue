@@ -14,18 +14,6 @@
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
-        <Card
-          title="Handelszeiten.com"
-          description="A German website that lists the trading hours and market holidays of stock exchanges worldwide."
-          icon="solutions/handelszeiten.png"
-          url="https://handelszeiten.com/"
-        />
-        <Card
-          title="cvwizard"
-          description="A free CV Builder that offers a quick and easy way to create your CV online and download it as PDF file."
-          icon="solutions/cvwizard.png"
-          url="https://cvwizard.online/"
-        />
       </div>
     </div>
     <div class="mb-8 md:mb-12">
