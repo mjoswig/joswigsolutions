@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-2xl xl:text-3xl mb-6">Legal</h1>
+    <h1 class="text-2xl xl:text-3xl mt-5 xl:mt-0 mb-6">Legal</h1>
     <div class="grid md:grid-cols-2 gap-6 mb-6">
       <div>
         <h2 class="text-xl xl:text-2xl mb-2">Joswig Solutions UG</h2>

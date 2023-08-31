@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-2xl xl:text-3xl mb-6">Privacy Policy</h1>
+    <h1 class="text-2xl xl:text-3xl mt-5 xl:mt-0 mb-6">Privacy Policy</h1>
     <p class="mb-4">At Joswig Solutions, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Joswig Solutions and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email.</p>
     <h2 class="text-xl xl:text-2xl mb-2">General Data Protection Regulation (GDPR)</h2>
     <p class="mb-2">We are a Data Controller of your information.</p>

@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-center justify-center p-4 lg:p-12 w-full" style="background-color: #f8f8f8;">
     <div class="wrapper flex flex-col w-full">
-      <header class="flex flex-col items-center justify-center mb-8 xl:mb-10">
+      <header class="flex flex-col items-center justify-center mb-5 xl:mb-10">
         <nuxt-link to="/">
           <img class="h-24 w-auto" src="@/assets/images/joswigsolutions-logo.png" />
         </nuxt-link>
