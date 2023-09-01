@@ -14,12 +14,6 @@
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
-        <Card
-          title="cvwizard"
-          description="A free CV Builder that offers a quick and easy way to create your CV online and download it as PDF file."
-          icon="solutions/cvwizard.png"
-          url="https://cvwizard.online/"
-        />
       </div>
     </div>
     <div class="mb-8 md:mb-12">
