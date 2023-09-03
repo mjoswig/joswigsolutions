@@ -55,24 +55,8 @@
           <span>Nuxt</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/react.svg" />
-          <span>React</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/nextjs.png" />
-          <span>Next.js</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/typescript.svg" />
-          <span>TypeScript</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/nodejs.svg" />
           <span>Node.js</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/sass.svg" />
-          <span>Sass</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
@@ -81,14 +65,6 @@
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/postgresql.svg" />
           <span>PostgreSQL</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/mysql.svg" />
-          <span>MySQL</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/php.svg" />
-          <span>PHP</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/wordpress.svg" />
