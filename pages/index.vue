@@ -14,6 +14,12 @@
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
+        <Card
+          title="Traumanwalt"
+          description="Traumanwalt is a platform that connects lawyers and law firms in Germany with people looking for legal advice."
+          icon="solutions/traumanwalt.png"
+          url="https://traumanwalt.com/"
+        />
       </div>
     </div>
     <div class="mb-8 md:mb-12">
