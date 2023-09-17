@@ -16,7 +16,7 @@
         />
         <Card
           title="Traumanwalt"
-          description="Traumanwalt is a platform that connects lawyers and law firms in Germany with people looking for legal advice."
+          description="A legal tech platform that connects lawyers and law firms in Germany with people looking for legal advice."
           icon="solutions/traumanwalt.png"
           url="https://traumanwalt.com/"
         />
