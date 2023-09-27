@@ -2,25 +2,7 @@
   <div class="flex flex-col">
     <div class="text-center mb-6 md:mb-10">
       <h1 class="text-2xl xl:text-3xl mb-2">About Joswig Solutions</h1>
-      <p class="text-lg xl:text-xl">We are a web development company with a focus on web solutions and client services.</p>
-    </div>
-    <div class="mb-8 md:mb-12">
-      <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
-      <p class="text-base xl:text-lg mb-4">We operate online platforms, software products, and niche websites.</p>
-      <div class="grid grid-cols gap-4">
-        <Card
-          title="Wishlist Page"
-          description="A privacy-first gifting platform for content creators, where fans can fund your wishes or adopt your monthly bills."
-          icon="solutions/wishlistpage.png"
-          url="https://wishlistpage.com/"
-        />
-        <Card
-          title="Traumanwalt"
-          description="A legal tech platform that connects lawyers and law firms in Germany with people looking for legal advice."
-          icon="solutions/traumanwalt.png"
-          url="https://traumanwalt.com/"
-        />
-      </div>
+      <p class="text-lg xl:text-xl">We are a web development company with a focus on client services and web solutions.</p>
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Services</h2>
@@ -48,6 +30,24 @@
         />
       </div>
     </div>
+    <div class="mb-8 md:mb-12">
+      <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
+      <p class="text-base xl:text-lg mb-4">We operate online platforms, software products, and niche websites.</p>
+      <div class="grid grid-cols gap-4">
+        <Card
+          title="Wishlist Page"
+          description="A privacy-first gifting platform for content creators, where fans can fund your wishes or adopt your monthly bills."
+          icon="solutions/wishlistpage.png"
+          url="https://wishlistpage.com/"
+        />
+        <Card
+          title="Traumanwalt"
+          description="A legal tech platform that connects lawyers and law firms in Germany with people looking for legal advice."
+          icon="solutions/traumanwalt.png"
+          url="https://traumanwalt.com/"
+        />
+      </div>
+    </div>
     <div class="mb-8 md:mb-16">
       <h2 class="text-xl xl:text-2xl mb-1">Technologies</h2>
       <p class="text-base xl:text-lg mb-6">These are the technologies that we prefer working with when building new projects from scratch:</p>
@@ -61,8 +61,24 @@
           <span>Nuxt</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/react.svg" />
+          <span>React</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/nextjs.png" />
+          <span>Next.js</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/typescript.svg" />
+          <span>TypeScript</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/nodejs.svg" />
           <span>Node.js</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/sass.svg" />
+          <span>Sass</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
@@ -71,6 +87,14 @@
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/postgresql.svg" />
           <span>PostgreSQL</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/mysql.svg" />
+          <span>MySQL</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/php.svg" />
+          <span>PHP</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/wordpress.svg" />
