@@ -11,8 +11,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'We are a small web development company with a focus on web solutions and client services.' },
-      { hid: 'og-description', property: 'og:description', content: 'We are a small web development company with a focus on web solutions and client services.' },
+      { hid: 'description', name: 'description', content: 'We are a small web development company with a focus on client services and web solutions.' },
+      { hid: 'og-description', property: 'og:description', content: 'We are a small web development company with a focus on client services and web solutions.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
