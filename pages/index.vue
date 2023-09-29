@@ -103,8 +103,13 @@
       </div>
     </div>
     <div class="md:mb-8 xl:mb-4">
-      <h1 class="text-xl xl:text-2xl md:text-center mb-4">Let's build great projects together</h1>
-      <div class="flex flex-col space-y-4 sm:flex-row sm:items-center md:justify-center sm:space-x-6 sm:space-y-0">
+      <h1 class="text-xl xl:text-2xl mb-2">Let's turn your idea into reality</h1>
+      <div class="text-base xl:text-lg mb-6">
+        <p class="mb-2">As your web development partner, we take full ownership of the applications we build, ensuring the implementation of proper design patterns to maintain clean and manageable code over time.</p>
+        <p class="mb-2">Our websites are crafted with a focus on smooth user experiences, responsiveness, performance, and search engine optimization.</p>
+        <p>Feel free to reach out for a chat about your project.</p>
+      </div>
+      <div class="flex flex-col space-y-4 sm:flex-row sm:items-center sm:space-x-6 sm:space-y-0">
         <div>
           <div class="h-28 w-28 sm:h-32 sm:w-32 bg-cover rounded-full" :style="`background-image: url(${require('@/assets/images/manuel-joswig.jpeg')}); background-position: center 20%;`"></div>
         </div>
