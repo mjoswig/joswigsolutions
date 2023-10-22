@@ -32,7 +32,7 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
-      <p class="text-base xl:text-lg mb-4">We operate online platforms, software products, and niche websites.</p>
+      <p class="text-base xl:text-lg mb-4">We operate two online platforms, one for creators and one for lawyers.</p>
       <div class="grid grid-cols gap-4">
         <Card
           title="Wishlist Page"
@@ -45,6 +45,48 @@
           description="A legal tech platform that connects lawyers and law firms in Germany with people looking for legal advice."
           icon="solutions/traumanwalt.png"
           url="https://traumanwalt.com/"
+        />
+      </div>
+    </div>
+    <div class="mb-8 md:mb-12">
+      <h2 class="text-xl xl:text-2xl mb-1">Portfolio</h2>
+      <p class="text-base xl:text-lg mb-4">Here are websites that we have built for clients and agency partners.</p>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <PortfolioSite
+          title="Alibaba Germany (2022)"
+          thumbnail="portfolio/alibaba-min.png"
+          description="WordPress Website Relaunch for Alibaba Germany"
+          url="https://de.alibabagroup.com/"
+        />
+        <PortfolioSite
+          title="Siemens Stiftung (2018)"
+          thumbnail="portfolio/siemes-stiftung-min.png"
+          description="WordPress Website Relaunch for Siemens Stiftung"
+          url="https://siemens-stiftung.org/"
+        />
+        <PortfolioSite
+          title="XING – Dein Job Leben (2020)"
+          thumbnail="portfolio/deinjobleben-min.png"
+          description="Landing Page for a marketing campaign by XING"
+          url="https://tricat.net/"
+        />
+        <PortfolioSite
+          title="TriCAT (2021)"
+          thumbnail="portfolio/tricat-min.png"
+          description="WordPress Website Relaunch for TriCAT, a VR software company"
+          url="https://tricat.net/"
+        />
+        <PortfolioSite
+          title="IP7 Technologies (2022)"
+          thumbnail="portfolio/ip7-min.png"
+          description="WordPress Website Relaunch for IP7 Technologies, an IP software startup"
+          url="https://ip7.tech/"
+        />
+        <PortfolioSite
+          title="cvwizard (2023)"
+          thumbnail="portfolio/cvwizard-min.png"
+          description="Web App for building professional CVs online in just a few minutes"
+          url="https://cvwizard.netlify.app/"
         />
       </div>
     </div>
@@ -143,11 +185,13 @@
 
 <script>
 import Card from '@/components/Card'
+import PortfolioSite from '@/components/PortfolioSite'
 
 export default {
   name: 'IndexPage',
   components: {
-    Card
+    Card,
+    PortfolioSite
   }
 }
 </script>
