@@ -1,7 +1,7 @@
 <template>
   <div class="bg-white border p-4 rounded-md shadow-sm flex flex-col space-y-2 sm:flex-row sm:space-x-4 sm:space-y-0">
     <div class="w-max">
-      <img class="h-auto w-12 sm:mt-1" :src="imageSrc" />
+      <img class="h-auto sm:mt-1" :class="{ 'w-12': !iconWidth }" :style="{ width: iconWidth }" :src="imageSrc" />
     </div>
     <div class="w-full">
       <h3 class="text-base mb-1">{{ title }}</h3>
@@ -14,7 +14,7 @@
 <script>
 export default {
   name: 'Card',
-  props: ['title', 'description', 'icon', 'url'],
+  props: ['title', 'description', 'icon', 'iconWidth', 'url'],
   computed: {
     imageSrc() {
       return require(`@/assets/images/${this.icon}`)

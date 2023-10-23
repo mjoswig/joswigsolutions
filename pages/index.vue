@@ -33,7 +33,7 @@
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
       <p class="text-base xl:text-lg mb-4">We operate two online platforms, one for creators and one for lawyers.</p>
-      <div class="grid grid-cols gap-4">
+      <div class="grid sm:grid-cols-2 gap-4">
         <Card
           title="Wishlist Page"
           description="A privacy-first gifting platform for content creators, where fans can fund your wishes or adopt your monthly bills."
@@ -44,6 +44,7 @@
           title="Traumanwalt"
           description="A legal tech platform that connects lawyers and law firms in Germany with people looking for legal advice."
           icon="solutions/traumanwalt.png"
+          icon-width="64px"
           url="https://traumanwalt.com/"
         />
       </div>
