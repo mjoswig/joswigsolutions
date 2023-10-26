@@ -2,7 +2,10 @@
   <div class="flex flex-col">
     <div class="text-center mb-6 md:mb-10">
       <h1 class="text-2xl xl:text-3xl mb-2">About Joswig Solutions</h1>
-      <p class="text-lg xl:text-xl">We are a web development company with a focus on client services and web solutions.</p>
+      <p class="text-lg xl:text-xl mb-4 xl:mb-6">We are a web development company with a focus on client services and web solutions.</p>
+      <div class="flex justify-center text-sm xl:text-base">
+        <Btn @click="openCalendly">Launch Your MVP In 30 Days For $10K</Btn>
+      </div>
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Services</h2>
@@ -185,14 +188,21 @@
 </template>
 
 <script>
+import Btn from '@/components/Btn'
 import Card from '@/components/Card'
 import PortfolioSite from '@/components/PortfolioSite'
 
 export default {
   name: 'IndexPage',
   components: {
+    Btn,
     Card,
     PortfolioSite
+  },
+  methods: {
+    openCalendly() {
+      window.open('https://calendly.com/joswigsolutions/discovery-call', '_blank')
+    }
   }
 }
 </script>
