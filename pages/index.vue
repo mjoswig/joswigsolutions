@@ -107,12 +107,12 @@
           <span>Nuxt</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/react.svg" />
-          <span>React</span>
+          <img class="h-10 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
+          <span>Tailwind CSS</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/nextjs.png" />
-          <span>Next.js</span>
+          <img class="h-10 w-auto" src="@/assets/images/technologies/javascript.svg" />
+          <span>JavaScript</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/typescript.svg" />
@@ -123,12 +123,8 @@
           <span>Node.js</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/sass.svg" />
-          <span>Sass</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
-          <span>Tailwind CSS</span>
+          <img class="h-10 w-auto" src="@/assets/images/technologies/php.svg" />
+          <span>PHP</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/postgresql.svg" />
@@ -139,12 +135,16 @@
           <span>MySQL</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/php.svg" />
-          <span>PHP</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/wordpress.svg" />
           <span>WordPress</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/firebase.svg" />
+          <span>Firebase</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/stripe.png" />
+          <span>Stripe</span>
         </div>
       </div>
     </div>
