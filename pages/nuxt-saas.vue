@@ -20,7 +20,7 @@
       <p>Nuxt SaaS Boilerplate & Starter Kit is a codebase that takes care of the fundamental structure and components standard to all SaaS applications. Now, you can focus on building unique features that generate revenue and provide value to customers.</p>
     </div>
     <div class="mb-8 md:mb-12">
-      <h2 class="text-xl xl:text-2xl mb-2">What is included in Nuxt SaaS?</h2>
+      <h2 class="text-xl xl:text-2xl mb-2">What's included in Nuxt SaaS?</h2>
       <p class="mb-4">Get unlimited access to the features below with a one-time payment. Receive all updates for free.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         <div class="bg-white border p-4 rounded-md shadow-sm">
