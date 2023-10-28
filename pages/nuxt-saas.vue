@@ -15,9 +15,39 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-2">A new age of launching 🚀</h2>
-      <p class="mb-4">You want to build software products and launch quickly, but you're left wasting months implementing commonplace functionality. On top of that, you're forced to learn countless new languages and frameworks to integrate the full stack.</p>
-      <h3 class="text-base xl:text-lg mb-1">Introducing Nuxt SaaS</h3>
-      <p>Nuxt SaaS Boilerplate & Starter Kit is a codebase that takes care of the fundamental structure and components standard to all SaaS applications. Now, you can focus on building unique features that generate revenue and provide value to customers.</p>
+      <p class="mb-4">You want to build software products and launch quickly, but you're left wasting months implementing commonplace functionality. On top of that, you're forced to learn countless new frameworks to integrate the full stack.</p>
+      <div class="flex flex-col-reverse md:flex-row">
+        <div class="grid grid-cols-4 gap-8 md:gap-4 w-full mt-4">
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/vuejs.svg" />
+          </div>
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/nuxt.svg" />
+          </div>
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
+          </div>
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/javascript.svg" />
+          </div>
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/nodejs.svg" />
+          </div>
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/postgresql.svg" />
+          </div>
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/firebase.svg" />
+          </div>
+          <div>
+            <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/stripe.png" />
+          </div>
+        </div>
+        <div class="md:mt-2 w-full">
+          <h3 class="text-base xl:text-lg mb-1">Introducing Nuxt SaaS</h3>
+          <p>Nuxt SaaS Boilerplate & Starter Kit is a codebase that takes care of the fundamental structure and components standard to all SaaS applications. Now, you can focus on building unique features that generate revenue and provide value to customers.</p>
+        </div>
+      </div>
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-2">What's included in Nuxt SaaS?</h2>
