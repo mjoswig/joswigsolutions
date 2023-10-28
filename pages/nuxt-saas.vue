@@ -4,7 +4,7 @@
       <div class="flex flex-col items-center justify-center text-center md:block md:text-left w-full md:pt-6">
         <h1 class="text-2xl xl:text-3xl mb-2">Nuxt SaaS Boilerplate & Starter Kit – Launch your web app in days, not weeks</h1>
         <p class="text-lg mb-2">From zero to SaaS with no effort: This Nuxt 2 boilerplate comes with all the tools you need to build your next game-changing web app.</p>
-        <p class="text-lg mb-4">Pre-order today and follow me <a href="https://twitter.com/manuel_joswig">@manuel_joswig</a> for updates. You can ask for a refund anytime.</p>
+        <p class="text-lg mb-4"><b>Pre-order</b> today and follow me <a href="https://twitter.com/manuel_joswig">@manuel_joswig</a> for updates. You can ask for a refund anytime.</p>
         <Btn class="w-fit" @click="preOrder">
           <span>Pre-order for <strike>$249.00</strike> $124.50</span>
         </Btn>
@@ -19,7 +19,7 @@
       <h3 class="text-base xl:text-lg mb-1">Introducing Nuxt SaaS</h3>
       <p>Nuxt SaaS Boilerplate & Starter Kit is a codebase that takes care of the fundamental structure and components standard to all SaaS applications. Now, you can focus on building unique features that generate revenue and provide value to customers.</p>
     </div>
-    <div>
+    <div class="mb-6 md:mb-10">
       <h2 class="text-xl xl:text-2xl mb-4">What is included in Nuxt SaaS?</h2>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         <div class="bg-white border p-4 rounded-md shadow-sm">
@@ -60,16 +60,35 @@
         </div>
       </div>
     </div>
+    <div>
+      <h1 class="text-xl xl:text-2xl mb-2">Hey, it's Manuel 👋</h1>
+      <div class="text-base xl:text-lg mb-6">
+        <p class="mb-2">After many years of developing SaaS projects, I realized I was doing the same thing over and over: set up DNS records, listen to Stripe webhooks, design pricing section...</p>
+        <p class="mb-2">So I decided to build Nuxt SaaS for 3 reasons:</p>
+        <ol class="list-decimal ml-5 mb-2">
+          <li><b>Save time</b> and focus on what matters: building a business</li>
+          <li><b>Avoid headaches</b> like dealing with user login or spending days to set up a blog.</li>
+          <li><b>Get profitable fast</b> – the more you ship, the more you learn, the more you earn.</li>
+        </ol>
+        <p>Follow me on Twitter/X, if you have any questions before pre-ordering the boilerplate.</p>
+      </div>
+      <ContactInfo />
+    </div>
   </div>
 </template>
 
 <script>
+import ContactInfo from '@/components/ContactInfo'
+
 export default {
   name: 'NuxtBoilerplatePage',
   head() {
     return {
       title: 'Nuxt SaaS Boilerplate & Starter Kit - Joswig Solutions'
     }
+  },
+  components: {
+    ContactInfo
   },
   methods: {
     preOrder() {
