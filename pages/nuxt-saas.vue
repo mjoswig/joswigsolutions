@@ -17,7 +17,7 @@
       <h2 class="text-xl xl:text-2xl mb-2">A new age of launching 🚀</h2>
       <p class="mb-4">You want to build software products and launch quickly, but you're left wasting months implementing commonplace functionality. On top of that, you're forced to learn countless new frameworks to integrate the full stack.</p>
       <div class="flex flex-col-reverse md:flex-row">
-        <div class="grid grid-cols-4 gap-8 md:gap-4 w-full mt-4">
+        <div class="grid grid-cols-4 gap-8 md:gap-4 w-full mt-8 md:mt-4">
           <div>
             <img class="h-8 md:h-10 w-auto" src="@/assets/images/technologies/vuejs.svg" />
           </div>
@@ -124,7 +124,7 @@
       <h1 class="text-xl xl:text-2xl mb-2">Hey, it's Manuel 👋</h1>
       <p class="mb-2">After many years of developing SaaS projects, I realized I was doing the same thing over and over: set up DNS records, listen to Stripe webhooks, design pricing section...</p>
       <p class="mb-2">So I decided to build Nuxt SaaS for 3 reasons:</p>
-      <ol class="list-decimal ml-5 mb-2">
+      <ol class="flex flex-col space-y-1 list-decimal ml-5 mb-2">
         <li><b>Save time</b> and focus on what matters: building a business</li>
         <li><b>Avoid headaches</b> like dealing with user login or spending days to set up a blog.</li>
         <li><b>Get profitable fast</b> – the more you ship, the more you learn, the more you earn.</li>
