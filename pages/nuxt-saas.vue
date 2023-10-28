@@ -45,7 +45,7 @@
         </div>
         <div class="md:mt-2 w-full">
           <h3 class="text-base xl:text-lg mb-1">Introducing Nuxt SaaS</h3>
-          <p>Nuxt SaaS Boilerplate & Starter Kit is a codebase that takes care of the fundamental structure and components standard to all SaaS applications. Now, you can focus on building unique features that generate revenue and provide value to customers.</p>
+          <p>Nuxt SaaS Boilerplate & Starter Kit is a codebase that includes a fundamental structure and ready-made components for developing SaaS applications of any kind. Now, you can focus on building unique features that generate revenue and provide value to customers.</p>
         </div>
       </div>
     </div>
@@ -116,7 +116,7 @@
             <path d="M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6l2.25-3ZM8.5 4V1h3.75l2.25 3h-6ZM15 5v10H1V5h14Z"/>
           </svg>
           <h3 class="text-base xl:text-lg mb-1">Lifetime Updates & Support</h3>
-          <p>Access our repository with lifetime updates. For guaranteed email support, please <a href="https://buy.stripe.com/eVaaHIaR33sd3zqfZ3" target="_blank">subscribe to a plan</a>! Cancel anytime <a href="https://billing.stripe.com/p/login/6oE8yOdEJ8On5TGdQQ" target="_blank">here</a>.</p>
+          <p>Access our repository with lifetime updates. For guaranteed email support, please <a href="https://buy.stripe.com/eVaaHIaR33sd3zqfZ3" target="_blank">subscribe to a plan</a>. Cancel anytime <a href="https://billing.stripe.com/p/login/6oE8yOdEJ8On5TGdQQ" target="_blank">here</a>.</p>
         </div>
       </div>
     </div>
