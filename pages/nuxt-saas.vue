@@ -92,16 +92,14 @@
     </div>
     <div>
       <h1 class="text-xl xl:text-2xl mb-2">Hey, it's Manuel 👋</h1>
-      <div class="text-base xl:text-lg mb-6">
-        <p class="mb-2">After many years of developing SaaS projects, I realized I was doing the same thing over and over: set up DNS records, listen to Stripe webhooks, design pricing section...</p>
-        <p class="mb-2">So I decided to build Nuxt SaaS for 3 reasons:</p>
-        <ol class="list-decimal ml-5 mb-2">
-          <li><b>Save time</b> and focus on what matters: building a business</li>
-          <li><b>Avoid headaches</b> like dealing with user login or spending days to set up a blog.</li>
-          <li><b>Get profitable fast</b> – the more you ship, the more you learn, the more you earn.</li>
-        </ol>
-        <p>Follow me on Twitter/X, if you have any questions before pre-ordering Nuxt SaaS.</p>
-      </div>
+      <p class="mb-2">After many years of developing SaaS projects, I realized I was doing the same thing over and over: set up DNS records, listen to Stripe webhooks, design pricing section...</p>
+      <p class="mb-2">So I decided to build Nuxt SaaS for 3 reasons:</p>
+      <ol class="list-decimal ml-5 mb-2">
+        <li><b>Save time</b> and focus on what matters: building a business</li>
+        <li><b>Avoid headaches</b> like dealing with user login or spending days to set up a blog.</li>
+        <li><b>Get profitable fast</b> – the more you ship, the more you learn, the more you earn.</li>
+      </ol>
+      <p class="mb-6">Follow me on Twitter/X, if you have any questions before pre-ordering Nuxt SaaS.</p>
       <ContactInfo />
     </div>
   </div>

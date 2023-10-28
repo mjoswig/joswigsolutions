@@ -151,11 +151,9 @@
     </div>
     <div class="md:mb-8 xl:mb-4">
       <h1 class="text-xl xl:text-2xl mb-2">Let's turn your idea into reality</h1>
-      <div class="text-base xl:text-lg mb-6">
-        <p class="mb-2">As your web development partner, we take full ownership of the applications we build, ensuring the implementation of proper design patterns to maintain clean and manageable code over time.</p>
-        <p class="mb-2">Our websites are crafted with a focus on smooth user experiences, responsiveness, performance, and search engine optimization.</p>
-        <p>Feel free to reach out for a chat about your project.</p>
-      </div>
+      <p class="mb-2">As your web development partner, we take full ownership of the applications we build, ensuring the implementation of proper design patterns to maintain clean and manageable code over time.</p>
+      <p class="mb-2">Our websites are crafted with a focus on smooth user experiences, responsiveness, performance, and search engine optimization.</p>
+      <p class="mb-6">Feel free to reach out for a chat about your project.</p>
       <ContactInfo />
     </div>
   </div>
