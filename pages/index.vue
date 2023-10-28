@@ -5,7 +5,7 @@
       <p class="text-lg xl:text-xl mb-4 xl:mb-6">We are a web development company with a focus on client services and web solutions.</p>
       <div class="flex flex-col space-y-2 md:flex-row items-center justify-center md:space-x-4 md:space-y-0 text-sm xl:text-base">
         <Btn @click="openCalendly">Launch Your MVP in 30 Days for $10K</Btn>
-        <nuxt-link to="/nuxt-boilerplate">Pre-order Boilerplate for $124.50</nuxt-link>
+        <nuxt-link to="/nuxt-saas">Pre-order Boilerplate for $124.50</nuxt-link>
       </div>
     </div>
     <div class="mb-8 md:mb-12">
