@@ -16,31 +16,37 @@
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-2">A new age of launching 🚀</h2>
       <p class="mb-4 md:mb-6">You want to build software products and launch quickly, but you're left wasting months implementing commonplace functionality. On top of that, you're forced to learn countless new frameworks to integrate the full stack.</p>
-      <div class="flex flex-col-reverse md:flex-row">
-        <div class="grid grid-cols-4 gap-8 md:gap-4 w-full mt-8 md:mt-4">
-          <div>
+      <div class="flex items-start flex-col-reverse md:flex-row md:space-x-10">
+        <div class="grid grid-cols-5 gap-6 md:gap-8 mt-6 md:mt-4 w-full sm:-ml-7 md:ml-0 lg:-ml-2">
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/vuejs.svg" />
           </div>
-          <div>
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/nuxt.svg" />
           </div>
-          <div>
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
           </div>
-          <div>
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/javascript.svg" />
           </div>
-          <div>
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/nodejs.svg" />
           </div>
-          <div>
+          <div class="flex justify-center">
+            <img class="h-8 w-auto" src="@/assets/images/technologies/nodemailer.png" />
+          </div>
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/postgresql.svg" />
           </div>
-          <div>
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/firebase.svg" />
           </div>
-          <div>
+          <div class="flex justify-center">
             <img class="h-8 w-auto" src="@/assets/images/technologies/stripe.png" />
+          </div>
+          <div class="flex justify-center">
+            <img class="h-8 w-auto" src="@/assets/images/technologies/notion.svg" />
           </div>
         </div>
         <div class="md:mt-2 w-full">
