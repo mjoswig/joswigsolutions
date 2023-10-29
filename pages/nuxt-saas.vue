@@ -5,9 +5,10 @@
         <h1 class="text-2xl xl:text-3xl mb-2">Nuxt SaaS Boilerplate & Starter Kit – Launch your web app in days, not weeks</h1>
         <p class="text-lg mb-2">From zero to SaaS with no effort: This Nuxt 2 boilerplate comes with all the tools you need to build your next game-changing web app.</p>
         <p class="text-lg mb-4"><b>Pre-order</b> today and follow me <a href="https://twitter.com/manuel_joswig">@manuel_joswig</a> for updates. You can ask for a refund anytime.</p>
-        <Btn class="w-fit" @click="preOrder">
+        <Btn class="mb-3 w-fit" @click="preOrder">
           <span>Pre-order for <strike>$249.00</strike> $124.50</span>
         </Btn>
+        <span>Not a developer? <a class="cursor-pointer" @click="openCalendly">Let me help you</a>.</span>
       </div>
       <div class="flex justify-center w-full">
         <img src="@/assets/images/nuxt-boilerplate.svg" />
@@ -157,6 +158,9 @@ export default {
   methods: {
     preOrder() {
       window.open('https://buy.stripe.com/00g6rs1gt0g11ri8wA?prefilled_promo_code=PREORDER50', '_blank')
+    },
+    openCalendly() {
+      window.open('https://calendly.com/joswigsolutions/discovery-call', '_blank')
     }
   }
 }
