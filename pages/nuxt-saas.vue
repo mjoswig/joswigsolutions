@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="flex flex-col space-y-4 md:flex-row md:space-x-8 md:space-y-0 mb-6 md:mb-10">
+    <div class="flex flex-col space-y-4 md:flex-row md:space-x-8 md:space-y-0 mb-1 md:mb-10">
       <div class="flex flex-col items-center justify-center text-center md:block md:text-left w-full md:pt-6">
         <h1 class="text-2xl xl:text-3xl mb-2">Nuxt SaaS Boilerplate & Starter Kit – Launch your web app in days, not weeks</h1>
         <p class="text-lg mb-2">From zero to SaaS with no effort: This Nuxt 2 boilerplate comes with all the tools you need to build your next game-changing web app.</p>
