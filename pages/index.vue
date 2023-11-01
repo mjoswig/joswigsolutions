@@ -4,7 +4,7 @@
       <h1 class="text-2xl xl:text-3xl mb-2">About Joswig Solutions</h1>
       <p class="text-lg xl:text-xl mb-4 xl:mb-6">We are a web development company creating custom websites and web-based software.</p>
       <div class="flex justify-center text-sm xl:text-base">
-        <Btn @click="openCalendly">Launch Your MVP in 30 Days for $10K</Btn>
+        <Btn @click="openCalendly">Book Your Discovery Call</Btn>
       </div>
     </div>
     <div class="mb-8 md:mb-12">
