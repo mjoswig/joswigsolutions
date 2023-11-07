@@ -19,7 +19,7 @@
         <h1 class="text-xl xl:text-2xl mb-2">How it works 🚀</h1>
         <ol class="list-decimal flex flex-col space-y-2 ml-5">
           <li>Purchase the roasting service via Stripe. Mention the URL of your landing page.</li>
-          <li>Wait 1-2 days. I'm getting many requests and don't work on weekends.</li>
+          <li>Please be patient and wait 1-2 days. I'm getting many requests and rarely work on weekends.</li>
           <li>You will receive an email from me. It will include the Figma link with my feedback.</li>
         </ol>
       </div>
