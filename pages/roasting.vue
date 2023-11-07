@@ -2,7 +2,7 @@
   <div>
     <div class="flex flex-col space-y-4 mb-10">
       <div class="flex flex-col items-center justify-center text-center mb-4 md:mb-8 w-full">
-        <h1 class="text-2xl xl:text-3xl mb-3">Want more customers?<br />Get a <mark>landing page roast</mark> 🔥</h1>
+        <h1 class="text-2xl xl:text-3xl mb-3">Get more customers from a <mark>landing page roast</mark> 🔥</h1>
         <p class="text-lg mb-2">I will give you <b>actionable feedback</b> on design and marketing in Figma.</p>
         <p class="text-lg mb-5">48-hour turnaround time.</p>
         <Btn class="w-fit mb-3" @click="checkOut">
