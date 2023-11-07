@@ -6,7 +6,7 @@
         <p class="text-lg mb-2">I will give you <b>actionable feedback</b> on design and marketing in Figma.</p>
         <p class="text-lg mb-5">48-hour turnaround time.</p>
         <Btn class="w-fit mb-3" @click="checkOut">
-          <span>Get your roast for $49.99</span>
+          <span>Get Your Roast for $49.99</span>
         </Btn>
         <span class="text-gray-500 text-xs md:text-sm">If you're not happy, I will refund the full cost of your roast. No questions asked.</span>
       </div>
