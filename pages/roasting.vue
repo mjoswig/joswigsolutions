@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="flex flex-col space-y-4 mb-10">
-      <div class="flex flex-col items-center justify-center text-center mb-4 md:mb-8 w-full">
+      <div class="flex flex-col items-center justify-center text-center mb-3 md:mb-7 w-full">
         <h1 class="text-2xl xl:text-3xl mb-3">Get more customers from a <mark>landing page roast</mark> 🔥</h1>
         <p class="text-lg mb-2">I will give you <b>actionable feedback</b> on design and marketing in Figma.</p>
         <p class="text-lg mb-5">48-hour turnaround time.</p>
@@ -36,7 +36,7 @@
     </div>
     <div>
       <h1 class="text-xl xl:text-2xl mb-2">Hey, it's Manuel 👋</h1>
-      <p class="mb-2">I'm a solopreneur with over 10 years of experience in design, development, and marketing. When I was freelancing for digital agencies, I accompanied hundreds of website relaunches. I know how a good landing page should look like!</p>
+      <p class="mb-2">I have over 10 years of experience in design, development, and marketing. When I was freelancing for digital agencies, I accompanied hundreds of website relaunches. I know how a good landing page should look like!</p>
       <p class=""></p>
       <p class="mb-6">Contact me on Twitter/X, if you have questions or concerns before purchasing your roast.</p>
       <ContactInfo />
