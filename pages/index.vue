@@ -40,7 +40,7 @@
       <div class="grid sm:grid-cols-2 gap-4">
         <Card
           title="Wishlist Page"
-          description="A privacy-first gifting platform for content creators, where fans can fund your wishes or adopt your monthly bills."
+          description="A privacy-first gifting platform for content creators, where fans can fund your wishes or adopt your bills."
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
