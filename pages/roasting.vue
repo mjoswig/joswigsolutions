@@ -38,7 +38,7 @@
       <h1 class="text-xl xl:text-2xl mb-2">Hey, it's Manuel 👋</h1>
       <p class="mb-2">I have over 10 years of experience in design, development, and marketing. When I was freelancing for digital agencies, I accompanied dozens of website relaunches. I know how a good landing page should look like!</p>
       <p class=""></p>
-      <p class="mb-6">Contact me on Twitter/X, if you have questions or concerns before purchasing your roast.</p>
+      <p class="mb-6">Contact me on Twitter/X, if you have questions or concerns before purchasing the roasting service.</p>
       <ContactInfo />
     </div>
   </div>
