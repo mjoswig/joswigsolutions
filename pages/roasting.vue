@@ -14,8 +14,8 @@
         <img class="border rounded-md shadow-sm" src="@/assets/images/roasting.png" />
       </div>
     </div>
-    <div class="grid md:grid-cols-2 gap-10 mb-8">
-      <div class="border bg-white p-4 rounded-md shadow-sm">
+    <div class="grid md:grid-cols-2 gap-8 md:gap-10 mb-8">
+      <div class="md:border md:bg-white md:p-5 md:rounded-md md:shadow-sm">
         <h1 class="text-xl xl:text-2xl mb-2">How it works 🚀</h1>
         <ol class="list-decimal flex flex-col space-y-2 ml-5">
           <li>Purchase the roasting service via Stripe. Mention the URL of your landing page.</li>
@@ -23,7 +23,7 @@
           <li>You will receive an email from me. It will include the Figma link with my feedback.</li>
         </ol>
       </div>
-      <div class="border bg-white p-4 rounded-md shadow-sm">
+      <div class="md:border md:bg-white md:p-5 md:rounded-md md:shadow-sm">
         <h1 class="text-xl xl:text-2xl mb-2">Roast examples 🌶️</h1>
         <ul class="list-disc flex flex-col space-y-2 ml-5">
           <li><a href="https://www.figma.com/file/mET33O1D84NHSQ1rkhNlri/Roasting-vidify.cloud?type=design&node-id=0%3A1&mode=design&t=Oy1q6rTOrOkBJTlP-1" target="_blank">Roasting vidify.cloud</a></li>
