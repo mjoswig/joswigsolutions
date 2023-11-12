@@ -12,6 +12,11 @@
       <p class="text-base xl:text-lg mb-4">Would you like to hire us for a web project? Here is what we can do:</p>
       <div class="grid grid-cols gap-4">
         <Card
+          title="IT & Marketing Consulting"
+          description="If you need business advice on design, development, or marketing, we can come up with a solution for you."
+          icon="services/it-marketing-consulting.png"
+        />
+        <Card
           title="Digital Product Design"
           description="Together with our clients, we challenge traditional business models and bring new ones to profitable fruition."
           icon="services/digital-product-design.svg"
