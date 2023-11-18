@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col space-y-4 sm:flex-row sm:items-center sm:space-x-6 sm:space-y-0">
     <div>
-      <div class="h-28 w-28 sm:h-32 sm:w-32 bg-cover rounded-full" :style="`background-image: url(${require('@/assets/images/manuel-joswig.jpeg')}); background-position: center 20%;`"></div>
+      <div class="h-28 w-28 sm:h-32 sm:w-32 bg-cover rounded-full" :style="`background-image: url(${require('@/assets/images/manuel-joswig.jpg')}); background-position: center 20%;`"></div>
     </div>
     <div>
       <b class="block xl:text-lg mb-1">Manuel Joswig</b>
