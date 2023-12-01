@@ -112,6 +112,14 @@
           <span>Nuxt</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/react.svg" />
+          <span>React</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/nextjs.svg" />
+          <span>Next.js</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
           <span>Tailwind CSS</span>
         </div>
@@ -128,10 +136,6 @@
           <span>Node.js</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/php.svg" />
-          <span>PHP</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/postgresql.svg" />
           <span>PostgreSQL</span>
         </div>
@@ -140,16 +144,12 @@
           <span>MySQL</span>
         </div>
         <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/php.svg" />
+          <span>PHP</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/wordpress.svg" />
           <span>WordPress</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/firebase.svg" />
-          <span>Firebase</span>
-        </div>
-        <div class="flex flex-col items-center space-y-2">
-          <img class="h-10 w-auto" src="@/assets/images/technologies/stripe.png" />
-          <span>Stripe</span>
         </div>
       </div>
     </div>
