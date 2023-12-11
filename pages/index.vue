@@ -43,14 +43,16 @@
       <p class="text-base xl:text-lg mb-4">We design, build, and grow innovative online platforms.</p>
       <div class="grid sm:grid-cols-2 gap-4">
         <Card
-          title="Wishlist Page (2022)"
+          title="Wishlist Page"
           description="A privacy-first gifting platform for content creators, where fans can fund your wishes or adopt your bills."
+          label="2022"
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
         <Card
-          title="Traumanwalt (2023)"
+          title="Traumanwalt"
           description="A legal tech platform that connects lawyers and law firms in Germany with people looking for legal advice."
+          label="2023"
           icon="solutions/traumanwalt.png"
           icon-width="64px"
           url="https://traumanwalt.com/"
@@ -62,39 +64,45 @@
       <p class="text-base xl:text-lg mb-4">Here are websites that we have built for our clients and agency partners.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         <PortfolioSite
-          title="Alibaba Germany (2022)"
+          title="Alibaba Germany"
           thumbnail="portfolio/alibaba-min.png"
           description="WordPress Website Relaunch for Alibaba Germany"
+          label="2022"
           url="https://de.alibabagroup.com/"
         />
         <PortfolioSite
-          title="Siemens Stiftung (2018)"
+          title="Siemens Stiftung"
           thumbnail="portfolio/siemes-stiftung-min.png"
           description="WordPress Website Relaunch for Siemens Stiftung"
+          label="2018"
           url="https://siemens-stiftung.org/"
         />
         <PortfolioSite
-          title="XING – Dein Job Leben (2020)"
+          title="XING – Dein Job Leben"
           thumbnail="portfolio/deinjobleben-min.png"
           description="Landing Page for a marketing campaign by XING"
+          label="2020"
           url="https://deinjobleben.xing.com/"
         />
         <PortfolioSite
-          title="TriCAT (2021)"
+          title="TriCAT"
           thumbnail="portfolio/tricat-min.png"
           description="WordPress Website Relaunch for TriCAT, a VR software company"
+          label="2021"
           url="https://tricat.net/"
         />
         <PortfolioSite
-          title="IP7 Technologies (2022)"
+          title="IP7 Technologies"
           thumbnail="portfolio/ip7-min.png"
           description="WordPress Website Relaunch for IP7 Technologies, an IP software startup"
+          label="2022"
           url="https://ip7.tech/"
         />
         <PortfolioSite
-          title="cvwizard (2023)"
+          title="cvwizard"
           thumbnail="portfolio/cvwizard-min.png"
           description="Web App for building professional CVs online in just a few minutes"
+          label="2023"
           url="https://cvwizard.netlify.app/"
         />
       </div>

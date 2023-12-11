@@ -4,7 +4,10 @@
       <img class="h-auto sm:mt-1" :class="{ 'w-12': !iconWidth }" :style="{ width: iconWidth }" :src="imageSrc" />
     </div>
     <div class="w-full">
-      <h3 class="text-base mb-1">{{ title }}</h3>
+      <div class="flex items-center space-x-2 mb-1">
+        <h3 class="text-base">{{ title }}</h3>
+        <span class="bg-gray-100 font-bold px-2 py-1 rounded-xl text-xs">{{ label }}</span>
+      </div>
       <p class="text-sm">{{ description }}</p>
       <a v-if="url" class="inline-block mt-1 text-sm" :href="url" target="_blank">{{ url.replace('https://', '').replace('/', '') }}</a>
     </div>
@@ -14,7 +17,7 @@
 <script>
 export default {
   name: 'Card',
-  props: ['title', 'description', 'icon', 'iconWidth', 'url'],
+  props: ['title', 'description', 'label', 'icon', 'iconWidth', 'url'],
   computed: {
     imageSrc() {
       return require(`@/assets/images/${this.icon}`)
