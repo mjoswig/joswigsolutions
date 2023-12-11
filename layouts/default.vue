@@ -9,13 +9,11 @@
       <main class="mb-8 xl:mb-12">
         <Nuxt />
       </main>
-      <footer class="flex flex-col justify-center space-y-2 md:text-center text-xs md:text-sm">
+      <footer class="flex flex-col justify-center space-y-2 md:text-center text-sm">
         <div class="flex items-center md:justify-center space-x-4">
+          <span class="text-gray-500">© Joswig Solutions</span>
           <nuxt-link to="/legal">Legal</nuxt-link>
           <nuxt-link to="/privacy">Privacy Policy</nuxt-link>
-        </div>
-        <div class="text-gray-500">
-          Copyright © {{ copyrightYear }} Joswig Solutions. All rights reserved.
         </div>
       </footer>
     </div>
@@ -24,14 +22,7 @@
 
 <script>
 export default {
-  name: 'DefaultLayout',
-  computed: {
-    copyrightYear() {
-      const year = new Date().getFullYear()
-      if (year === 2017) return year
-      return `2017-${year}`
-    }
-  }
+  name: 'DefaultLayout'
 }
 </script>
 

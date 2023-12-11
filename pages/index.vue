@@ -43,13 +43,13 @@
       <p class="text-base xl:text-lg mb-4">We design, build, and grow innovative online platforms.</p>
       <div class="grid sm:grid-cols-2 gap-4">
         <Card
-          title="Wishlist Page"
+          title="Wishlist Page (2022)"
           description="A privacy-first gifting platform for content creators, where fans can fund your wishes or adopt your bills."
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
         <Card
-          title="Traumanwalt"
+          title="Traumanwalt (2023)"
           description="A legal tech platform that connects lawyers and law firms in Germany with people looking for legal advice."
           icon="solutions/traumanwalt.png"
           icon-width="64px"
