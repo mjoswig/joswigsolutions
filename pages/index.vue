@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col">
     <div class="text-center mb-6 md:mb-10">
-      <h1 class="text-2xl xl:text-3xl mb-2">About Joswig Solutions</h1>
+      <h1 class="text-2xl xl:text-3xl mb-2">Joswig Solutions</h1>
       <p class="text-lg xl:text-xl mb-4 xl:mb-6">We are a web development company creating custom websites and web-based software.</p>
       <div class="flex justify-center text-sm xl:text-base">
         <Btn @click="openCalendly">Book a Discovery Call</Btn>
