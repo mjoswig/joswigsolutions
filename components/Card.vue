@@ -6,7 +6,7 @@
     <div class="w-full">
       <div class="flex items-center space-x-2 mb-1">
         <h3 class="text-base">{{ title }}</h3>
-        <span class="bg-gray-100 font-bold px-2 py-1 rounded-xl text-xs">{{ label }}</span>
+        <span v-if="label" class="bg-gray-100 font-bold px-2 py-1 rounded-xl text-xs">{{ label }}</span>
       </div>
       <p class="text-sm">{{ description }}</p>
       <a v-if="url" class="inline-block mt-1 text-sm" :href="url" target="_blank">{{ url.replace('https://', '').replace('/', '') }}</a>
