@@ -53,7 +53,7 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Portfolio</h2>
-      <p class="text-base xl:text-lg mb-4">Here are websites that we have built for our clients and agency partners.</p>
+      <p class="text-base xl:text-lg mb-4">Explore our past projects to get an idea of what we can accomplish together.</p>
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         <PortfolioSite
           title="Alibaba Germany"
@@ -93,7 +93,7 @@
         <PortfolioSite
           title="Traumanwalt"
           thumbnail="portfolio/traumanwalt-min.png"
-          description="Directory that connects lawyers and law firms in Germany with clients."
+          description="Directory that connects lawyers and law firms in Germany with clients"
           label="2023"
           url="https://traumanwalt.com/"
         />
