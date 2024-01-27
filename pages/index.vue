@@ -44,7 +44,7 @@
       <div class="grid gap-4">
         <Card
           title="Wishlist Page"
-          description="A safe platform for creators, where fans can fund your wishes, adopt your bills, and pay for exclusive rewards."
+          description="A safe platform for creators, where fans can grant your wishes, adopt your bills, and pay for exclusive rewards."
           label="2022"
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
