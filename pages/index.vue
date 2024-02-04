@@ -40,7 +40,7 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
-      <p class="text-base xl:text-lg mb-4">We design, build, and grow innovative online platforms.</p>
+      <p class="text-base xl:text-lg mb-4">We design, build, and grow digital platforms and online services.</p>
       <div class="grid gap-4">
         <Card
           title="Wishlist Page"
