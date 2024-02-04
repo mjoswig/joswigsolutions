@@ -51,7 +51,7 @@
         />
         <Card
           title="PDF Public"
-          description="A simple and secure service for sharing PDF files. Get your documents distributed fast and optimized for any device."
+          description="A simple and secure service for sharing PDF files online. Get your PDFs distributed fast and optimized for any device."
           label="2024"
           icon="solutions/pdfpublic.png"
           url="https://pdfpublic.com/"
