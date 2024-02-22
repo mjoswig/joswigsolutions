@@ -10,10 +10,12 @@
         <Nuxt />
       </main>
       <footer class="flex flex-col justify-center space-y-2 md:text-center text-sm">
-        <div class="flex items-center md:justify-center space-x-4">
+        <div class="flex flex-col-reverse sm:flex-row sm:items-center  md:justify-center sm:space-x-4">
           <span class="text-gray-500">© Joswig Solutions</span>
-          <nuxt-link to="/legal">Legal</nuxt-link>
-          <nuxt-link to="/privacy">Privacy Policy</nuxt-link>
+          <div class="flex space-x-4 mb-1 sm:mb-0">
+            <nuxt-link to="/legal">Legal Information</nuxt-link>
+            <nuxt-link to="/privacy">Privacy Policy</nuxt-link>
+          </div>
         </div>
       </footer>
     </div>
