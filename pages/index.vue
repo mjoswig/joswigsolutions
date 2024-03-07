@@ -49,13 +49,6 @@
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
-        <Card
-          title="PDF Public"
-          description="A simple and secure service for sharing PDF files online. Get your PDFs distributed fast and optimized for any device."
-          label="2024"
-          icon="solutions/pdfpublic.png"
-          url="https://pdfpublic.com/"
-        />
       </div>
     </div>
     <div class="mb-8 md:mb-12">
