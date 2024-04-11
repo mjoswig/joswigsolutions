@@ -43,7 +43,7 @@
       <p class="text-base xl:text-lg mb-4">We design, build, and grow digital platforms and online services.</p>
       <div class="grid gap-4">
         <Card
-          title="Wishlist Page"
+          title="Wishlistpage"
           description="A safe platform for creators, where fans can grant your wishes, adopt your bills, and pay for exclusive rewards."
           label="2022"
           icon="solutions/wishlistpage.png"
