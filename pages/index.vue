@@ -33,7 +33,7 @@
         />
         <Card
           title="Custom Web Development"
-          description="We develop websites and business applications tailored individually to reflect and resolve the needs of our clients."
+          description="We develop websites and software applications tailored individually to reflect and resolve the needs of our clients."
           icon="services/software-development.svg"
         />
         <Card
