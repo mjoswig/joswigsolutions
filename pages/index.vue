@@ -23,7 +23,7 @@
       <div class="grid md:grid-cols-2 gap-4">
         <Card
           title="Digital Strategy Consulting"
-          description="We create a strategic roadmap for your project and connect you to the right partners to help you achieve your business objectives."
+          description="We create a roadmap for your project and connect you to the right partners to help you achieve your business objectives."
           icon="services/digital-strategy-consulting.png"
         />
         <Card
