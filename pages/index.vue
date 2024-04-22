@@ -28,12 +28,12 @@
         />
         <Card
           title="Digital Product Design"
-          description="Together with our clients, we challenge traditional business models and bring new ones to profitable fruition."
+          description="We build the foundation for a high-end digital product with smooth interactions and an impeccable look & feel."
           icon="services/digital-product-design.svg"
         />
         <Card
-          title="Custom Web Development"
-          description="We develop websites and software applications tailored individually to reflect and resolve the needs of our clients."
+          title="Website & Software Development"
+          description="We develop websites and software applications tailored individually to reflect and resolve the needs of your business."
           icon="services/software-development.svg"
         />
         <Card
