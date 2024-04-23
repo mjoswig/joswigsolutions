@@ -28,7 +28,7 @@
         />
         <Card
           title="Digital Product Design"
-          description="We build the foundation for a high-end digital product with smooth interactions and an impeccable look & feel."
+          description="We craft high-end digital products with an impeccable look & feel that your customers and employees want and need."
           icon="services/digital-product-design.svg"
         />
         <Card
