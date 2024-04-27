@@ -10,7 +10,7 @@
       <div class="grid gap-4">
         <Card
           title="Wishlistpage"
-          description="A privacy-focused platform for creators to receive gift funds and tips from fans."
+          description="A privacy-focused platform for creators to accept gift funds and tips from fans."
           label="2022"
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
