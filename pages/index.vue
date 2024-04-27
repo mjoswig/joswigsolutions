@@ -10,7 +10,7 @@
       <div class="grid gap-4">
         <Card
           title="Wishlistpage"
-          description="A safe platform for creators, where fans can grant your wishes, adopt your bills, and pay for exclusive rewards."
+          description="A privacy-focused platform for creators to receive gift funds and tips from fans."
           label="2022"
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
@@ -23,12 +23,12 @@
       <div class="grid md:grid-cols-2 gap-4">
         <Card
           title="Digital Strategy Consulting"
-          description="We create a roadmap for your project and connect you to the right partners to help you achieve your business objectives."
+          description="We create a strategic roadmap and introduce you to the right partners to help you achieve your business objectives."
           icon="services/digital-strategy-consulting.png"
         />
         <Card
           title="Digital Product Design"
-          description="We craft high-end digital products with seamless interactions that your customers and colleagues want and need."
+          description="We craft high-end digital products for desktop and mobile devices that your customers and colleagues want and need."
           icon="services/digital-product-design.svg"
         />
         <Card
