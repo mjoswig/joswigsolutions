@@ -43,6 +43,60 @@
         />
       </div>
     </div>
+    <div class="mb-8 md:mb-16">
+      <h2 class="text-xl xl:text-2xl mb-1">Technologies</h2>
+      <p class="text-base xl:text-lg mb-6">These are the technologies that we prefer working with when starting new projects from scratch:</p>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8">
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/vuejs.svg" />
+          <span>Vue.js</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/nuxt.svg" />
+          <span>Nuxt</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/react.svg" />
+          <span>React</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/nextjs.svg" />
+          <span>Next.js</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/tailwind-css.svg" />
+          <span>Tailwind CSS</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/javascript.svg" />
+          <span>JavaScript</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/typescript.svg" />
+          <span>TypeScript</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/nodejs.svg" />
+          <span>Node.js</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/postgresql.svg" />
+          <span>PostgreSQL</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/mysql.svg" />
+          <span>MySQL</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/php.svg" />
+          <span>PHP</span>
+        </div>
+        <div class="flex flex-col items-center space-y-2">
+          <img class="h-10 w-auto" src="@/assets/images/technologies/wordpress.svg" />
+          <span>WordPress</span>
+        </div>
+      </div>
+    </div>
     <div class="md:mb-8 xl:mb-4">
       <h1 class="text-xl xl:text-2xl mb-2">Let's turn your idea into reality</h1>
       <p class="mb-2">As your web development partner, we take full ownership of the applications we build, ensuring the implementation of proper design patterns to maintain clean and manageable code over time.</p>
