@@ -7,7 +7,7 @@
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
       <p class="text-base xl:text-lg mb-4">We design, build, and grow digital platforms and online services.</p>
-      <div class="grid gap-4">
+      <div class="grid sm:grid-cols-2 gap-4">
         <Card
           title="Wishlistpage"
           description="A privacy-focused platform for creators to accept gift funds and tips from fans."
@@ -20,6 +20,7 @@
           description="A directory that connects German lawyers with people looking for legal advice."
           label="2023"
           icon="solutions/traumanwalt.png"
+          icon-width="64px"
           url="https://traumanwalt.com/"
         />
       </div>
