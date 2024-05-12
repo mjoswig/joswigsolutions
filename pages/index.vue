@@ -15,6 +15,13 @@
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
         />
+        <Card
+          title="Traumanwalt"
+          description="A directory that connects German lawyers with people looking for legal advice."
+          label="2023"
+          icon="solutions/traumanwalt.png"
+          url="https://traumanwalt.com/"
+        />
       </div>
     </div>
     <div class="mb-8 md:mb-12">
