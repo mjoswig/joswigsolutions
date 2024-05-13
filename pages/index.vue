@@ -17,7 +17,7 @@
         />
         <Card
           title="Traumanwalt"
-          description="A web directory to find the best lawyers and law firms based in Germany."
+          description="A web directory to find the best lawyers, law firms, and legal experts in Germany."
           label="2023"
           icon="solutions/traumanwalt.png"
           icon-width="64px"
