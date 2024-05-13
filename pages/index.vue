@@ -17,7 +17,7 @@
         />
         <Card
           title="Traumanwalt"
-          description="A directory that connects German lawyers with people looking for legal advice."
+          description="A directory that connects German lawyers with clients looking for legal advice."
           label="2023"
           icon="solutions/traumanwalt.png"
           icon-width="64px"
