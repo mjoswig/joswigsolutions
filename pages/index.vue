@@ -19,7 +19,7 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Services</h2>
-      <p class="text-base xl:text-lg mb-4">Would you like to hire us for a web project? Here is what we can do for you.</p>
+      <p class="text-base xl:text-lg mb-4">Would you like to hire us for a web project? Here is what we can do.</p>
       <div class="grid md:grid-cols-2 gap-4">
         <Card
           title="Digital Strategy Consulting"
@@ -45,7 +45,7 @@
     </div>
     <div class="mb-8 md:mb-16">
       <h2 class="text-xl xl:text-2xl mb-1">Technologies</h2>
-      <p class="text-base xl:text-lg mb-6">Below are the front-end and back-end technologies that we prefer working with.</p>
+      <p class="text-base xl:text-lg mb-6">Below are the front-end and back-end technologies that we work with.</p>
       <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-8">
         <div class="flex flex-col items-center space-y-2">
           <img class="h-10 w-auto" src="@/assets/images/technologies/vuejs.svg" />
@@ -99,7 +99,7 @@
     </div>
     <div class="md:mb-8 xl:mb-4">
       <h1 class="text-xl xl:text-2xl mb-2">Let's turn your idea into reality</h1>
-      <p class="text-base xl:text-lg mb-6">Get in touch for a quick chat about your project. I'm looking forward to meet you.</p>
+      <p class="text-base xl:text-lg mb-6">Get in touch for a quick chat about your project. I'm looking forward to meet you!</p>
       <ContactInfo />
     </div>
   </div>
