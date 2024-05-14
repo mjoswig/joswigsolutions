@@ -6,7 +6,7 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
-      <p class="text-base xl:text-lg mb-4">Explore our digital platforms, software products, and online services.</p>
+      <p class="text-base xl:text-lg mb-4">Explore our digital platforms and software products.</p>
       <div class="grid grid-cols gap-4">
         <Card
           title="Wishlistpage"
@@ -99,7 +99,7 @@
     </div>
     <div class="md:mb-8 xl:mb-4">
       <h1 class="text-xl xl:text-2xl mb-2">Let's turn your idea into reality</h1>
-      <p class="text-base xl:text-lg mb-6">Get in touch for a quick chat about your project. I'm looking forward to meet you!</p>
+      <p class="text-base xl:text-lg mb-6">Get in touch for a quick chat about your project. I'm looking forward to meet you.</p>
       <ContactInfo />
     </div>
   </div>
