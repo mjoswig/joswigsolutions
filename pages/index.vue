@@ -19,7 +19,7 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Services</h2>
-      <p class="text-base xl:text-lg mb-4">Would you like to hire us for a web project? This is what we can do.</p>
+      <p class="text-base xl:text-lg mb-4">Would you like to hire us for a web project? These are things we can do.</p>
       <div class="grid md:grid-cols-2 gap-4">
         <Card
           title="Digital Strategy Consulting"
