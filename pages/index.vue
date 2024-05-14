@@ -6,7 +6,7 @@
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
-      <p class="text-base xl:text-lg mb-4">Explore the digital platforms and products that we own and operate.</p>
+      <p class="text-base xl:text-lg mb-4">Explore the digital platforms and products in our portfolio.</p>
       <div class="grid grid-cols gap-4">
         <Card
           title="Wishlistpage"
