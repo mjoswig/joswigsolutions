@@ -7,21 +7,13 @@
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
       <p class="text-base xl:text-lg mb-4">We design, build, and grow digital platforms and online services.</p>
-      <div class="grid sm:grid-cols-2 gap-4">
+      <div class="grid grid-cols gap-4">
         <Card
           title="Wishlistpage"
           description="A privacy-focused platform for creators to accept gift funds and tips from fans."
           label="2022"
           icon="solutions/wishlistpage.png"
           url="https://wishlistpage.com/"
-        />
-        <Card
-          title="Traumanwalt"
-          description="A web directory to find the best lawyers, law firms, and legal experts in Germany."
-          label="2023"
-          icon="solutions/traumanwalt.png"
-          icon-width="64px"
-          url="https://traumanwalt.com/"
         />
       </div>
     </div>
