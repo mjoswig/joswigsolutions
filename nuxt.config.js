@@ -11,8 +11,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'We build and invest in internet & technology solutions.' },
-      { hid: 'og-description', property: 'og:description', content: 'We build and invest in internet & technology solutions.' },
+      { hid: 'description', name: 'description', content: 'We build leading internet and technology solutions.' },
+      { hid: 'og-description', property: 'og:description', content: 'We build leading internet and technology solutions.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [

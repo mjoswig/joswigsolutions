@@ -2,7 +2,7 @@
   <div class="flex flex-col">
     <div class="text-center mb-6 md:mb-10">
       <h1 class="text-2xl xl:text-3xl mb-2">Joswig Solutions</h1>
-      <p class="text-lg xl:text-xl">We build and invest in internet & technology solutions.</p>
+      <p class="text-lg xl:text-xl">We build leading internet and technology solutions.</p>
     </div>
     <div class="mb-8 md:mb-12">
       <h2 class="text-xl xl:text-2xl mb-1">Solutions</h2>
