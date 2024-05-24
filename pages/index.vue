@@ -118,11 +118,6 @@ export default {
     Card,
     ContactInfo,
     PortfolioSite
-  },
-  methods: {
-    openCalendly() {
-      window.open('https://calendly.com/joswigsolutions/discovery-call', '_blank')
-    }
   }
 }
 </script>

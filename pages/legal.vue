@@ -10,7 +10,7 @@
         <p class="mb-1">Amtsgericht Charlottenburg (HRB 204652)</p>
         <p>VAT ID: DE321357009</p>
       </div>
-      <div class="mb-6">
+      <div>
         <h2 class="text-xl xl:text-2xl mb-2">Board of Directors</h2>
         <p class="mb-1">Manuel Joswig</p>
         <p>Email: manuel@joswigsolutions.com</p>
