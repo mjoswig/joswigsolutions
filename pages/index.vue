@@ -9,18 +9,18 @@
       <p class="text-base xl:text-lg mb-4">Here is a brief overview of our digital platforms and products.</p>
       <div class="grid md:grid-cols-2 gap-4">
         <Card
-          title="Wishlistpage"
-          description="A privacy-focused platform for creators to accept gift funds and tips from fans."
-          label="2022"
-          icon="solutions/wishlistpage.png"
-          url="https://wishlistpage.com/"
-        />
-        <Card
           title="Chatbunny"
           description="A social platform to meet beautiful AI girls and make real human connections."
           label="2024"
           icon="solutions/chatbunny.png"
           url="https://chatbunny.com/"
+        />
+        <Card
+          title="Wishlistpage"
+          description="A privacy-focused platform for creators to accept gift funds and tips from fans."
+          label="2022"
+          icon="solutions/wishlistpage.png"
+          url="https://wishlistpage.com/"
         />
       </div>
     </div>
