@@ -11,10 +11,17 @@
         <p>VAT ID: DE321357009</p>
       </div>
       <div>
-        <h2 class="text-xl xl:text-2xl mb-2">Board of Directors</h2>
-        <p class="mb-1">Manuel Joswig</p>
-        <p>Email: manuel@joswigsolutions.com</p>
+        <h2 class="text-xl xl:text-2xl mb-2">Joswig Solutions US, LLC</h2>
+        <p class="mb-1">651 N Broad St</p>
+        <p class="mb-1">Suite 201</p>
+        <p class="mb-1">Middletown, DE 19709</p>
+        <p>United States</p>
       </div>
+    </div>
+    <div class="mb-6">
+      <h2 class="text-xl xl:text-2xl mb-2">Board of Directors</h2>
+      <p class="mb-1">Manuel Joswig</p>
+      <p>Email: manuel@joswigsolutions.com</p>
     </div>
     <div>
       <h2 class="text-xl xl:text-2xl mb-2">Copyright Notice</h2>
