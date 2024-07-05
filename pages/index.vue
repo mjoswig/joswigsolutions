@@ -10,7 +10,7 @@
       <div class="grid md:grid-cols-2 gap-4">
         <Card
           title="Chatbunny"
-          description="A social platform to meet beautiful AI girls and make real human connections."
+          description="A chatbot platform to interact with AI girls and make real human connections."
           label="2024"
           icon="solutions/chatbunny.png"
           url="https://chatbunny.com/"
