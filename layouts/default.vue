@@ -9,7 +9,7 @@
       <main class="mb-12 md:mb-16">
         <Nuxt />
       </main>
-      <footer class="border-t pt-8 pb-6 lg:pb-0 grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <footer class="border-t pt-8 pb-6 lg:pb-0 grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
         <div>
           <h2 class="text-lg mb-1">Joswig Solutions UG</h2>
           <p class="mb-1">Schaperstraße 14</p>
