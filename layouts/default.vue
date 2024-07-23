@@ -6,16 +6,25 @@
           <img class="h-24 w-auto" src="@/assets/images/joswigsolutions-logo.png" />
         </nuxt-link>
       </header>
-      <main class="mb-8 xl:mb-12">
+      <main class="mb-12 md:mb-16">
         <Nuxt />
       </main>
-      <footer class="flex flex-col justify-center space-y-2 md:text-center text-sm">
-        <div class="flex flex-col-reverse sm:flex-row sm:items-center  md:justify-center sm:space-x-4">
-          <span class="text-gray-500">© Joswig Solutions</span>
-          <div class="flex space-x-4 mb-1 sm:mb-0">
-            <nuxt-link to="/legal">Legal Information</nuxt-link>
-            <nuxt-link to="/privacy">Privacy Policy</nuxt-link>
-          </div>
+      <footer class="border-t pt-7 pb-4 lg:pb-0 grid sm:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-6">
+        <div>
+          <h2 class="text-lg mb-2">Joswig Solutions UG</h2>
+          <p class="mb-1">Schaperstraße 14</p>
+          <p class="mb-1">10719 Berlin</p>
+          <p class="mb-1">Germany</p>
+        </div>
+        <div>
+          <h2 class="text-lg mb-2">Joswig Solutions US, LLC</h2>
+          <p class="mb-1">651 N Broad St, Suite 201</p>
+          <p class="mb-1">Middletown, DE 19709</p>
+          <p class="mb-1">United States</p>
+        </div>
+        <div>
+          <h2 class="text-lg mb-2">Contact</h2>
+          <p>Email: info@joswigsolutions.com</p>
         </div>
       </footer>
     </div>

@@ -17,7 +17,7 @@
         />
       </div>
     </div>
-    <div class="mb-8 md:mb-12">
+    <div>
       <h2 class="text-xl xl:text-2xl mb-1">Services</h2>
       <p class="text-base xl:text-lg mb-4">Would you like to hire us for a web project? These are things we can do.</p>
       <div class="grid md:grid-cols-2 gap-4">
@@ -42,11 +42,6 @@
           icon="services/hosting-maintenance.svg"
         />
       </div>
-    </div>
-    <div class="md:mb-8 xl:mb-4">
-      <h1 class="text-xl xl:text-2xl mb-2">Let's turn your idea into reality</h1>
-      <p class="text-base xl:text-lg mb-6">Get in touch for a quick chat about your project. I'm looking forward to meet you!</p>
-      <ContactInfo />
     </div>
   </div>
 </template>
